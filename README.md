@@ -2,16 +2,17 @@
 
 Google Colab + Python project that generates an AI-based movie trailer using Gemini and MoviePy.
 
-## Notebook link
+## Open in Colab
 
-Project notebook (open this in Google Colab to run and see the trailer):
-https://github.com/SupporterQT/GGS_AI_MOVIE_TRAILER_GENERATOR/blob/main/GGS_AI_MOVIE_TRAILER_GENERATOR.ipynb
+Run and watch the trailer here:
+https://colab.research.google.com/github/SupporterQT/GGS_AI_MOVIE_TRAILER_GENERATOR/blob/main/GGS_AI_MOVIE_TRAILER_GENERATOR.ipynb
 
-## How to run (short)
+## What it does
 
-Open the notebook in Google Colab and run all cells.  
-The final cells create and play the movie trailer video inside Colab.
+- Generates a story and trailer script with Gemini.
+- Creates voice-over audio and images.
+- Produces a final movie trailer video inside Colab.
 
 ---
 
-Created by: Atharv Singh Rawat
+Created by: "Atharv Singh Rawat"
